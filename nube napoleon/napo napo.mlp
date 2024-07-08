@@ -1,0 +1,18 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh idInFile="-1" label="NAPOLEON_fix.OBJ" visible="0" filename="../../NAPOLEON_fix.OBJ">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" boxColor="234 234 234 255" pointSize="3" pointColor="252 233 79 255" wireWidth="1" solidColor="192 192 192 255">010111000000000000000110000001001100000010000000010100011011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" label="NAPOLEON_fix.OBJ_copy" visible="1" filename="napo nube.x3d">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" boxColor="234 234 234 255" pointSize="1" pointColor="162 147 51 255" wireWidth="1" solidColor="192 192 192 255">000111000000000000000100000001001100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
